@@ -3,7 +3,7 @@ import java.util.*;
  *
  * @author yash verma
  */
-public class pre_to_post {
+public   {
     public  static boolean operator(char x)
     {
         if(x=='+'||x=='-'||x=='/'||x=='*')
